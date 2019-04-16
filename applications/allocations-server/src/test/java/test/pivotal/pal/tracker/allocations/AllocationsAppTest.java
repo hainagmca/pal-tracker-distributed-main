@@ -16,4 +16,5 @@ public class AllocationsAppTest {
 
         assertThat(response).isEqualTo("[]");
     }
+
 }
